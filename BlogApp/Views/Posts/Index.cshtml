@@ -1,0 +1,12 @@
+﻿@model List<EntityLayer.Concrete.Post>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@foreach(var post in Model)
+{
+    <p>@post.Title</p>
+}
+

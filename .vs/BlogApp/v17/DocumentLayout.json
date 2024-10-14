@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\.NETProjects\\BlogApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{395EF430-904F-41C2-A903-459B41AD3269}|BlogApp\\BlogApp.csproj|c:\\users\\asus\\desktop\\.netprojects\\blogapp\\blogapp\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395EF430-904F-41C2-A903-459B41AD3269}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736279EE-4F1D-4A93-B729-F600E9EBAB38}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\asus\\desktop\\.netprojects\\blogapp\\dataaccesslayer\\efcore\\efpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{736279EE-4F1D-4A93-B729-F600E9EBAB38}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\efcore\\efpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736279EE-4F1D-4A93-B729-F600E9EBAB38}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\asus\\desktop\\.netprojects\\blogapp\\dataaccesslayer\\abstract\\ipostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{736279EE-4F1D-4A93-B729-F600E9EBAB38}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\abstract\\ipostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395EF430-904F-41C2-A903-459B41AD3269}|BlogApp\\BlogApp.csproj|c:\\users\\asus\\desktop\\.netprojects\\blogapp\\blogapp\\views\\posts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{395EF430-904F-41C2-A903-459B41AD3269}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\views\\posts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EfPostRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\.NETProjects\\BlogApp\\DataAccessLayer\\EfCore\\EfPostRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\EfCore\\EfPostRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\.NETProjects\\BlogApp\\DataAccessLayer\\EfCore\\EfPostRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\EfCore\\EfPostRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T12:22:53.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPostRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\.NETProjects\\BlogApp\\DataAccessLayer\\Abstract\\IPostRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Abstract\\IPostRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\.NETProjects\\BlogApp\\DataAccessLayer\\Abstract\\IPostRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Abstract\\IPostRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T12:07:44.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\.NETProjects\\BlogApp\\BlogApp\\Views\\Posts\\Index.cshtml",
+              "RelativeDocumentMoniker": "BlogApp\\Views\\Posts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\.NETProjects\\BlogApp\\BlogApp\\Views\\Posts\\Index.cshtml",
+              "RelativeToolTip": "BlogApp\\Views\\Posts\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T12:01:57.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\.NETProjects\\BlogApp\\BlogApp\\Controllers\\PostsController.cs",
+              "RelativeDocumentMoniker": "BlogApp\\Controllers\\PostsController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\.NETProjects\\BlogApp\\BlogApp\\Controllers\\PostsController.cs",
+              "RelativeToolTip": "BlogApp\\Controllers\\PostsController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T12:00:45.213Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
