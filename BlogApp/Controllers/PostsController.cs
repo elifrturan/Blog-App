@@ -1,4 +1,5 @@
-﻿using DataAccessLayer.Abstract;
+﻿using BlogApp.Models;
+using DataAccessLayer.Abstract;
 using DataAccessLayer.Concrete;
 using Microsoft.AspNetCore.Mvc;
 
@@ -15,7 +16,12 @@ namespace BlogApp.Controllers
 
         public IActionResult Index()
         {
-            return View(_postRepository.Posts.ToList());
+            var postViewModel = new PostViewModel
+            {
+                Posts = _postRepository.Posts.ToList(),
+            };
+
+            return View(postViewModel);
         }
     }
 }

@@ -7,10 +7,10 @@ using System.Threading.Tasks;
 
 namespace DataAccessLayer.Abstract
 {
-    public interface IPostRepository
+    public interface ITagRepository
     {
-        IQueryable<Post> Posts { get; }
-        void CreatePost(Post post);
-        Task<List<Post>> GetLatest3PostsAsync();
+        IQueryable<Tag> Tags { get; }
+        void CreateTag(Tag tag);
+        Task<List<Tag>> GetAllTagsAsync();
     }
 }

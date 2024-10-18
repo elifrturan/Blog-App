@@ -1,6 +1,7 @@
 ﻿using DataAccessLayer.Abstract;
 using DataAccessLayer.Concrete;
 using EntityLayer.Concrete;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -22,6 +23,14 @@ namespace DataAccessLayer.EfCore
         {
             blogContext.Posts.Add(post);
             blogContext.SaveChanges();
+        }
+
+        public async Task<List<Post>> GetLatest3PostsAsync()
+        {
+            return await blogContext.Posts
+                .OrderByDescending(p => p.PublishedOn)
+                .Take(3)
+                .ToListAsync();
         }
     }
 }
